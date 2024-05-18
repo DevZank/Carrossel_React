@@ -1,5 +1,7 @@
 # Carrossel de Imagens
 
+![Captura de tela 2024-05-18 165154](https://github.com/DevZank/Carrossel_React/assets/111926496/4e642d0e-e879-4ee1-bea0-f36f4ded0839)
+
 Este projeto é um carrossel de imagens simples feito em React. O carrossel permite navegar por várias imagens com transições suaves entre elas.
 
 ## Funcionalidades
