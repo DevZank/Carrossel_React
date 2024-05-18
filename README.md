@@ -1,8 +1,50 @@
-# React + Vite
+# Carrossel de Imagens
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um carrossel de imagens simples feito em React. O carrossel permite navegar por várias imagens com transições suaves entre elas.
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Transição suave entre as imagens.
+- Botões para navegar para a imagem anterior e próxima.
+
+## Tecnologias Utilizadas
+
+- React
+- CSS
+
+## Como Executar o Projeto
+
+### Pré-requisitos
+
+- Node.js instalado (recomendado a versão LTS)
+- npm instalado
+
+### Passos para Rodar
+
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/carrossel-imagens.git
+    ```
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd carrossel-imagens
+    ```
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+4. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
+5. Abra o navegador e acesse `http://localhost:PORTA_DO_HOST` para ver o carrossel em ação.
+
+---
+
+## Contato
+
+Sinta-se à vontade para entrar em contato comigo.
+
+---
+
+Feito por [Isaac Martins](https://www.linkedin.com/in/isaacmjsilva/)
